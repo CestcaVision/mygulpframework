@@ -1,6 +1,1 @@
-parent child {
-  background: red;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex; }
+parent child{background:tomato;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
